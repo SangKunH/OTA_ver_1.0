@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cgw.dir/main.cpp.o CMakeFiles/cgw.dir/Downloader.cpp.o CMakeFiles/cgw.dir/Sender.cpp.o -o cgw  /usr/lib/x86_64-linux-gnu/libboost_system.so.1.83.0 -lrt -lpthread 
