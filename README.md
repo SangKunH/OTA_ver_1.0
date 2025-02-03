@@ -2,7 +2,7 @@
 
 CGW : C++
 
-STM32(Targer ECU) : C
+STM32(Target ECU) : C
 
 OTA_Server(Web) : Python
 
